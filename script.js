@@ -1,1 +1,1 @@
-let abc=33;
+import component
